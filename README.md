@@ -8,7 +8,10 @@ This project is applied in the real estate field, utilizing two CP-ABE schemas, 
 
 ## Deployment Architecture
 ### Overview
-![image](https://github.com/user-attachments/assets/2798d201-2649-4c8c-9131-1d2de753677d)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/44edea67-556f-4796-9f63-65e10a1e545c" alt="Overview" width="750px">
+</p>
 
 ### System Workflow
 - Phase 1: System Initialization
