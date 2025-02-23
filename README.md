@@ -4,7 +4,7 @@ Ciphertext-Policy Attribute-Based Encryption using the BSW07 and SP21 schemes
 ## Introduction
 Ciphertext-Policy Attribute-Based Encryption (CP-ABE) is a sophisticated encryption method that enables data access based on user attributes. The ciphertext is embedded with a special policy, allowing only users with attributes that match the policy to decrypt it. This approach enhances flexibility and fine-grained access control, particularly in environments like cloud storage where data might need to be shared selectively.
 
-This project is applied in the real estate field, utilizing two CP-ABE schemas, SP21 and BSW07, for policy encryption. The involved parties include customers, government employees, banks, and company employees. Currently, the project has achieved confidentiality in terms of security goals but lacks authentication and authorization mechanisms.
+This project is applied in the real estate field, utilizing two CP-ABE schemas, SP21 and BSW07, for policy encryption. The relevant external parties include customers, government employees, banks, and company employees. Currently, the project has achieved confidentiality in terms of security goals but lacks authentication and authorization mechanisms.
 
 ## Deployment Architecture
 ### Overview
